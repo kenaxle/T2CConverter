@@ -22,5 +22,6 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="T2C"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="/T2CATLConverter"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
